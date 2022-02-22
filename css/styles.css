@@ -23,6 +23,10 @@
     align-items: center;
 }
 
+.sub-item3 {
+    margin-left: auto;
+}
+
 .wrapper {
     width: 67%;
     height: 100%;
